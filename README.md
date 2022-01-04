@@ -1,5 +1,5 @@
 # gOS
-An operating system made with the GRUB shell.
+An "operating system" (emphais on the quotes) made with the GRUB shell.
 This project uses the GRUB bootloader which can be found and downloaded from https://www.gnu.org/software/grub/grub-download.html.
 # Installation
 An ISO disk image is available from the releases tab.  
